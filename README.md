@@ -60,6 +60,12 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
+### 🔍 Search Engines:
+<p align="left">
+  <a href="https://www.meilisearch.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Meilisearch-%23FF595E.svg?style=for-the-badge&logo=meilisearch&logoColor=white" alt="meilisearch" height="40"/> </a>
+  <a href="https://www.algolia.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/algolia/algolia-original.svg" alt="algolia" width="40" height="40"/> </a>
+</p>
+
 ### 🔀 Message Brokers & Background Jobs:
 <p align="left">
   <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" alt="rabbitMQ" width="40" height="40"/> </a> 
@@ -80,7 +86,7 @@
 ### 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renanvnunes&theme=default&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=renanvnunes&theme=default&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <br clear="both" />
